@@ -21,6 +21,10 @@
         "yelp"       : "0.1.1",
 
         "async"      : "*",
-        "requestify" : "0.1.17"
+        "requestify" : "0.1.17",
+
+        "q": "^1.2.0",
+        "rhyme-plus": "0.0.6"
+
     }
 }

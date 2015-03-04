@@ -54,6 +54,14 @@
                 "greeting"    : "Welcome to Greg's conference room",
                 "inbound_numbers" : ["+1FIXME", "+1FIXME-OR-DELETE"]
 			}
+	    },
+
+	    "rhyme" : {
+	    	"active" : true,
+	        "name"   : "I can rhyme anything...except for orange.",
+	        "hook"   : "./plugins/slash/rhyme",
+	        "author" : "jason",
+	        "config" : {}
 	    }
 	},
 
