@@ -61,7 +61,9 @@
 	        "name"   : "I can rhyme anything...except for orange.",
 	        "hook"   : "./plugins/slash/rhyme",
 	        "author" : "jason",
-	        "config" : {}
+	        "config" : {
+	        	"syllablePlaceholder"	: "wah"
+	        }
 	    }
 	},
 
