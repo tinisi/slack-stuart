@@ -1,3 +1,8 @@
+
+#This is an Inactive fork!
+
+I forked this for a job interview programming "homework" assignment. Probably won't get back to this, but it was a fun project that resulted in a great job with cool people.
+
 #Stuart
 
 Stuart is an extensible Slack Bot. Ready to take on any task that you've programmed. He's intended to be run as a separate Node service. Once configured within your Slack instance, he will listen to your wishes and do the best he can to service you.
